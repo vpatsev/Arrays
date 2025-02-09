@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\04.EvenAndOddSubtraction\obj\Debug\net9.0\04.EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\04.EvenAndOddSubtraction\obj\Debug\net9.0\04.EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\04.EvenAndOddSubtraction\obj\Debug\net9.0\04.EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\04.EvenAndOddSubtraction\obj\Debug\net9.0\04.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\04.EvenAndOddSubtraction\obj\Debug\net9.0\04.EvenAndOddSubtraction.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\04.EvenAndOddSubtraction\bin\Debug\net9.0\04.EvenAndOddSubtraction.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\04.EvenAndOddSubtraction\bin\Debug\net9.0\04.EvenAndOddSubtraction.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\04.EvenAndOddSubtraction\bin\Debug\net9.0\04.EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\04.EvenAndOddSubtraction\bin\Debug\net9.0\04.EvenAndOddSubtraction.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\04.EvenAndOddSubtraction\bin\Debug\net9.0\04.EvenAndOddSubtraction.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\04.EvenAndOddSubtraction\obj\Debug\net9.0\04.EvenAndOddSubtraction.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\04.EvenAndOddSubtraction\obj\Debug\net9.0\refint\04.EvenAndOddSubtraction.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\04.EvenAndOddSubtraction\obj\Debug\net9.0\04.EvenAndOddSubtraction.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\04.EvenAndOddSubtraction\obj\Debug\net9.0\04.EvenAndOddSubtraction.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\04.EvenAndOddSubtraction\obj\Debug\net9.0\ref\04.EvenAndOddSubtraction.dll
