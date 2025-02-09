@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\02.SumАnArray\bin\Debug\net9.0\02.SumАnArray.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\02.SumАnArray\bin\Debug\net9.0\02.SumАnArray.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\02.SumАnArray\bin\Debug\net9.0\02.SumАnArray.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\02.SumАnArray\bin\Debug\net9.0\02.SumАnArray.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\02.SumАnArray\bin\Debug\net9.0\02.SumАnArray.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\02.SumАnArray\obj\Debug\net9.0\02.SumАnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\02.SumАnArray\obj\Debug\net9.0\02.SumАnArray.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\02.SumАnArray\obj\Debug\net9.0\02.SumАnArray.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\02.SumАnArray\obj\Debug\net9.0\02.SumАnArray.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\02.SumАnArray\obj\Debug\net9.0\02.SumАnArray.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\02.SumАnArray\obj\Debug\net9.0\02.SumАnArray.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\02.SumАnArray\obj\Debug\net9.0\refint\02.SumАnArray.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\02.SumАnArray\obj\Debug\net9.0\02.SumАnArray.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\02.SumАnArray\obj\Debug\net9.0\02.SumАnArray.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\02.SumАnArray\obj\Debug\net9.0\ref\02.SumАnArray.dll

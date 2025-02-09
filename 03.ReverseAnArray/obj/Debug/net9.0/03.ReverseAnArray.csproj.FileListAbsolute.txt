@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\03.ReverseAnArray\bin\Debug\net9.0\03.ReverseAnArray.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\03.ReverseAnArray\bin\Debug\net9.0\03.ReverseAnArray.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\03.ReverseAnArray\bin\Debug\net9.0\03.ReverseAnArray.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\03.ReverseAnArray\bin\Debug\net9.0\03.ReverseAnArray.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\03.ReverseAnArray\bin\Debug\net9.0\03.ReverseAnArray.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\03.ReverseAnArray\obj\Debug\net9.0\03.ReverseAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\03.ReverseAnArray\obj\Debug\net9.0\03.ReverseAnArray.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\03.ReverseAnArray\obj\Debug\net9.0\03.ReverseAnArray.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\03.ReverseAnArray\obj\Debug\net9.0\03.ReverseAnArray.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\03.ReverseAnArray\obj\Debug\net9.0\03.ReverseAnArray.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\03.ReverseAnArray\obj\Debug\net9.0\03.ReverseAnArray.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\03.ReverseAnArray\obj\Debug\net9.0\refint\03.ReverseAnArray.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\03.ReverseAnArray\obj\Debug\net9.0\03.ReverseAnArray.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\03.ReverseAnArray\obj\Debug\net9.0\03.ReverseAnArray.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\03.ReverseAnArray\obj\Debug\net9.0\ref\03.ReverseAnArray.dll

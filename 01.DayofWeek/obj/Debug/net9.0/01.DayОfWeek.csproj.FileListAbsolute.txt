@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\01.DayofWeek\bin\Debug\net9.0\01.DayОfWeek.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\01.DayofWeek\bin\Debug\net9.0\01.DayОfWeek.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\01.DayofWeek\bin\Debug\net9.0\01.DayОfWeek.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\01.DayofWeek\bin\Debug\net9.0\01.DayОfWeek.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\01.DayofWeek\bin\Debug\net9.0\01.DayОfWeek.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\01.DayofWeek\obj\Debug\net9.0\01.DayОfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\01.DayofWeek\obj\Debug\net9.0\01.DayОfWeek.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\01.DayofWeek\obj\Debug\net9.0\01.DayОfWeek.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\01.DayofWeek\obj\Debug\net9.0\01.DayОfWeek.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\01.DayofWeek\obj\Debug\net9.0\01.DayОfWeek.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\01.DayofWeek\obj\Debug\net9.0\01.DayОfWeek.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\01.DayofWeek\obj\Debug\net9.0\refint\01.DayОfWeek.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\01.DayofWeek\obj\Debug\net9.0\01.DayОfWeek.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\01.DayofWeek\obj\Debug\net9.0\01.DayОfWeek.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\Arrays\01.DayofWeek\obj\Debug\net9.0\ref\01.DayОfWeek.dll
